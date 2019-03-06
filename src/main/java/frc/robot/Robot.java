@@ -178,7 +178,6 @@ public class Robot extends TimedRobot {
 
   }
 
-  
   void spin()
   {
     // Change spinTime to adjust speed duration
